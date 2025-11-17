@@ -87,7 +87,7 @@ spec:
     - protocol: TCP
       port: 2000
       targetPort: 2000
-      nodePort: 30072       # Optional fixed NodePort (range 30000–32767)
+      nodePort: 30073       # Optional fixed NodePort (range 30000–32767)
   type: NodePort
 ---
 # ===========================
